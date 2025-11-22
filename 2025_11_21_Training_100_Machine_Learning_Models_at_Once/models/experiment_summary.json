@@ -1,0 +1,13 @@
+{
+    "global": {
+        "mse": 742184.5620119626,
+        "model_path": "models\\global_model\\model.txt"
+    },
+    "customer_summary": {
+        "trained_count": 100,
+        "trained_mse_mean": 1431301.4217747746,
+        "trained_mse_median": 106062.42397673547,
+        "better_than_global": 81,
+        "worse_than_global": 19
+    }
+}
