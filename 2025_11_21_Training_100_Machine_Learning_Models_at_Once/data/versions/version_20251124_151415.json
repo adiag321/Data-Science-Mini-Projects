@@ -1,0 +1,16 @@
+{
+    "ingested_at": "2025-11-24T15:14:15.780544",
+    "original_path": "E:\\Online Retail.csv",
+    "stored_path": "D:\\OneDrive - Northeastern University\\Jupyter Notebook\\Data-Science-Mini-Projects\\2025_11_21_Training_100_Machine_Learning_Models_at_Once\\data\\raw\\online_retail_20251124_151415.csv",
+    "row_count": 541909,
+    "columns": [
+        "InvoiceNo",
+        "StockCode",
+        "Description",
+        "Quantity",
+        "InvoiceDate",
+        "UnitPrice",
+        "CustomerID",
+        "Country"
+    ]
+}
