@@ -1,0 +1,3692 @@
+{
+    "12415": {
+        "customer_id": 12415,
+        "model_path": "pipeline_models\\local\\customer\\12415\\model.pkl",
+        "status": "active",
+        "mse": 37521028.453315504,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12437": {
+        "customer_id": 12437,
+        "model_path": "pipeline_models\\local\\customer\\12437\\model.pkl",
+        "status": "active",
+        "mse": 32366.2161479625,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12471": {
+        "customer_id": 12471,
+        "model_path": "pipeline_models\\local\\customer\\12471\\model.pkl",
+        "status": "active",
+        "mse": 1277476.699849853,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12474": {
+        "customer_id": 12474,
+        "model_path": "pipeline_models\\local\\customer\\12474\\model.pkl",
+        "status": "active",
+        "mse": 77013.53276347138,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12476": {
+        "customer_id": 12476,
+        "model_path": "pipeline_models\\local\\customer\\12476\\model.pkl",
+        "status": "active",
+        "mse": 405729.1036370827,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12523": {
+        "customer_id": 12523,
+        "model_path": "pipeline_models\\local\\customer\\12523\\model.pkl",
+        "status": "active",
+        "mse": 12309.217795712506,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12540": {
+        "customer_id": 12540,
+        "model_path": "pipeline_models\\local\\customer\\12540\\model.pkl",
+        "status": "active",
+        "mse": 381092.9521427793,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12583": {
+        "customer_id": 12583,
+        "model_path": "pipeline_models\\local\\customer\\12583\\model.pkl",
+        "status": "active",
+        "mse": 78423.60819731765,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12621": {
+        "customer_id": 12621,
+        "model_path": "pipeline_models\\local\\customer\\12621\\model.pkl",
+        "status": "active",
+        "mse": 253109.86594108064,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12662": {
+        "customer_id": 12662,
+        "model_path": "pipeline_models\\local\\customer\\12662\\model.pkl",
+        "status": "active",
+        "mse": 991.168606624992,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12681": {
+        "customer_id": 12681,
+        "model_path": "pipeline_models\\local\\customer\\12681\\model.pkl",
+        "status": "active",
+        "mse": 53979.50413912987,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12682": {
+        "customer_id": 12682,
+        "model_path": "pipeline_models\\local\\customer\\12682\\model.pkl",
+        "status": "active",
+        "mse": 93095.76021501434,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12683": {
+        "customer_id": 12683,
+        "model_path": "pipeline_models\\local\\customer\\12683\\model.pkl",
+        "status": "active",
+        "mse": 196849.39692691216,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12708": {
+        "customer_id": 12708,
+        "model_path": "pipeline_models\\local\\customer\\12708\\model.pkl",
+        "status": "active",
+        "mse": 48238.30150025135,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12709": {
+        "customer_id": 12709,
+        "model_path": "pipeline_models\\local\\customer\\12709\\model.pkl",
+        "status": "active",
+        "mse": 508400.9815983616,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12712": {
+        "customer_id": 12712,
+        "model_path": "pipeline_models\\local\\customer\\12712\\model.pkl",
+        "status": "active",
+        "mse": 62058.79672098252,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12720": {
+        "customer_id": 12720,
+        "model_path": "pipeline_models\\local\\customer\\12720\\model.pkl",
+        "status": "active",
+        "mse": 10675.198400086509,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12731": {
+        "customer_id": 12731,
+        "model_path": "pipeline_models\\local\\customer\\12731\\model.pkl",
+        "status": "active",
+        "mse": 2428076.0500686658,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12748": {
+        "customer_id": 12748,
+        "model_path": "pipeline_models\\local\\customer\\12748\\model.pkl",
+        "status": "active",
+        "mse": 3360986.1267364547,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12839": {
+        "customer_id": 12839,
+        "model_path": "pipeline_models\\local\\customer\\12839\\model.pkl",
+        "status": "active",
+        "mse": 71820.38041879416,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12841": {
+        "customer_id": 12841,
+        "model_path": "pipeline_models\\local\\customer\\12841\\model.pkl",
+        "status": "active",
+        "mse": 18176.0279818492,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12877": {
+        "customer_id": 12877,
+        "model_path": "pipeline_models\\local\\customer\\12877\\model.pkl",
+        "status": "active",
+        "mse": 17844.84381359001,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12901": {
+        "customer_id": 12901,
+        "model_path": "pipeline_models\\local\\customer\\12901\\model.pkl",
+        "status": "active",
+        "mse": 569300.502077101,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12921": {
+        "customer_id": 12921,
+        "model_path": "pipeline_models\\local\\customer\\12921\\model.pkl",
+        "status": "active",
+        "mse": 2203316.0414156504,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12971": {
+        "customer_id": 12971,
+        "model_path": "pipeline_models\\local\\customer\\12971\\model.pkl",
+        "status": "active",
+        "mse": 342770.9952278081,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "12989": {
+        "customer_id": 12989,
+        "model_path": "pipeline_models\\local\\customer\\12989\\model.pkl",
+        "status": "active",
+        "mse": 128730.2320116203,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13004": {
+        "customer_id": 13004,
+        "model_path": "pipeline_models\\local\\customer\\13004\\model.pkl",
+        "status": "active",
+        "mse": 94630.91649561613,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13018": {
+        "customer_id": 13018,
+        "model_path": "pipeline_models\\local\\customer\\13018\\model.pkl",
+        "status": "active",
+        "mse": 47918.237660556064,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13047": {
+        "customer_id": 13047,
+        "model_path": "pipeline_models\\local\\customer\\13047\\model.pkl",
+        "status": "active",
+        "mse": 125472.65620599252,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13050": {
+        "customer_id": 13050,
+        "model_path": "pipeline_models\\local\\customer\\13050\\model.pkl",
+        "status": "active",
+        "mse": 26644.847808201102,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13069": {
+        "customer_id": 13069,
+        "model_path": "pipeline_models\\local\\customer\\13069\\model.pkl",
+        "status": "active",
+        "mse": 31669.041185675043,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13078": {
+        "customer_id": 13078,
+        "model_path": "pipeline_models\\local\\customer\\13078\\model.pkl",
+        "status": "active",
+        "mse": 130419.87600570744,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13089": {
+        "customer_id": 13089,
+        "model_path": "pipeline_models\\local\\customer\\13089\\model.pkl",
+        "status": "active",
+        "mse": 3677304.290204113,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13090": {
+        "customer_id": 13090,
+        "model_path": "pipeline_models\\local\\customer\\13090\\model.pkl",
+        "status": "active",
+        "mse": 863599.0753027274,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13094": {
+        "customer_id": 13094,
+        "model_path": "pipeline_models\\local\\customer\\13094\\model.pkl",
+        "status": "active",
+        "mse": 7026.980208705036,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13097": {
+        "customer_id": 13097,
+        "model_path": "pipeline_models\\local\\customer\\13097\\model.pkl",
+        "status": "active",
+        "mse": 44538.33009262499,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13098": {
+        "customer_id": 13098,
+        "model_path": "pipeline_models\\local\\customer\\13098\\model.pkl",
+        "status": "active",
+        "mse": 631010.9777230115,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13102": {
+        "customer_id": 13102,
+        "model_path": "pipeline_models\\local\\customer\\13102\\model.pkl",
+        "status": "active",
+        "mse": 128831.45590100504,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13113": {
+        "customer_id": 13113,
+        "model_path": "pipeline_models\\local\\customer\\13113\\model.pkl",
+        "status": "active",
+        "mse": 1924452.8841072132,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13199": {
+        "customer_id": 13199,
+        "model_path": "pipeline_models\\local\\customer\\13199\\model.pkl",
+        "status": "active",
+        "mse": 1132389.3920097172,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13263": {
+        "customer_id": 13263,
+        "model_path": "pipeline_models\\local\\customer\\13263\\model.pkl",
+        "status": "active",
+        "mse": 104386.46627451206,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13266": {
+        "customer_id": 13266,
+        "model_path": "pipeline_models\\local\\customer\\13266\\model.pkl",
+        "status": "active",
+        "mse": 5423.708346851228,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13267": {
+        "customer_id": 13267,
+        "model_path": "pipeline_models\\local\\customer\\13267\\model.pkl",
+        "status": "active",
+        "mse": 86235.7795576652,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13269": {
+        "customer_id": 13269,
+        "model_path": "pipeline_models\\local\\customer\\13269\\model.pkl",
+        "status": "active",
+        "mse": 103935.36747465596,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13319": {
+        "customer_id": 13319,
+        "model_path": "pipeline_models\\local\\customer\\13319\\model.pkl",
+        "status": "active",
+        "mse": 214514.4576618004,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13408": {
+        "customer_id": 13408,
+        "model_path": "pipeline_models\\local\\customer\\13408\\model.pkl",
+        "status": "active",
+        "mse": 328819.219490455,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13458": {
+        "customer_id": 13458,
+        "model_path": "pipeline_models\\local\\customer\\13458\\model.pkl",
+        "status": "active",
+        "mse": 49900.176263634814,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13468": {
+        "customer_id": 13468,
+        "model_path": "pipeline_models\\local\\customer\\13468\\model.pkl",
+        "status": "active",
+        "mse": 45443.51541464665,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13488": {
+        "customer_id": 13488,
+        "model_path": "pipeline_models\\local\\customer\\13488\\model.pkl",
+        "status": "active",
+        "mse": 181740.3885875853,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13534": {
+        "customer_id": 13534,
+        "model_path": "pipeline_models\\local\\customer\\13534\\model.pkl",
+        "status": "active",
+        "mse": 108171.98320489442,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13576": {
+        "customer_id": 13576,
+        "model_path": "pipeline_models\\local\\customer\\13576\\model.pkl",
+        "status": "active",
+        "mse": 81867.82775132828,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13599": {
+        "customer_id": 13599,
+        "model_path": "pipeline_models\\local\\customer\\13599\\model.pkl",
+        "status": "active",
+        "mse": 107572.61042458523,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13668": {
+        "customer_id": 13668,
+        "model_path": "pipeline_models\\local\\customer\\13668\\model.pkl",
+        "status": "active",
+        "mse": 91467.25534668758,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13694": {
+        "customer_id": 13694,
+        "model_path": "pipeline_models\\local\\customer\\13694\\model.pkl",
+        "status": "active",
+        "mse": 9094431.858417498,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13767": {
+        "customer_id": 13767,
+        "model_path": "pipeline_models\\local\\customer\\13767\\model.pkl",
+        "status": "active",
+        "mse": 2251991.9913338763,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13769": {
+        "customer_id": 13769,
+        "model_path": "pipeline_models\\local\\customer\\13769\\model.pkl",
+        "status": "active",
+        "mse": 16022.214097062588,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13777": {
+        "customer_id": 13777,
+        "model_path": "pipeline_models\\local\\customer\\13777\\model.pkl",
+        "status": "active",
+        "mse": 6837287.833320026,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13798": {
+        "customer_id": 13798,
+        "model_path": "pipeline_models\\local\\customer\\13798\\model.pkl",
+        "status": "active",
+        "mse": 1052594.116071415,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13854": {
+        "customer_id": 13854,
+        "model_path": "pipeline_models\\local\\customer\\13854\\model.pkl",
+        "status": "active",
+        "mse": 3293.695963434237,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13871": {
+        "customer_id": 13871,
+        "model_path": "pipeline_models\\local\\customer\\13871\\model.pkl",
+        "status": "active",
+        "mse": 61766.04052477637,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13880": {
+        "customer_id": 13880,
+        "model_path": "pipeline_models\\local\\customer\\13880\\model.pkl",
+        "status": "active",
+        "mse": 130376.57895706243,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13881": {
+        "customer_id": 13881,
+        "model_path": "pipeline_models\\local\\customer\\13881\\model.pkl",
+        "status": "active",
+        "mse": 793093.8972364836,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13969": {
+        "customer_id": 13969,
+        "model_path": "pipeline_models\\local\\customer\\13969\\model.pkl",
+        "status": "active",
+        "mse": 458785.7268389128,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "13999": {
+        "customer_id": 13999,
+        "model_path": "pipeline_models\\local\\customer\\13999\\model.pkl",
+        "status": "active",
+        "mse": 40548.49451401224,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14031": {
+        "customer_id": 14031,
+        "model_path": "pipeline_models\\local\\customer\\14031\\model.pkl",
+        "status": "active",
+        "mse": 184826.9867478456,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14051": {
+        "customer_id": 14051,
+        "model_path": "pipeline_models\\local\\customer\\14051\\model.pkl",
+        "status": "active",
+        "mse": 891897.5788355469,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14056": {
+        "customer_id": 14056,
+        "model_path": "pipeline_models\\local\\customer\\14056\\model.pkl",
+        "status": "active",
+        "mse": 99041.95147059076,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14057": {
+        "customer_id": 14057,
+        "model_path": "pipeline_models\\local\\customer\\14057\\model.pkl",
+        "status": "active",
+        "mse": 194938.39385042884,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14060": {
+        "customer_id": 14060,
+        "model_path": "pipeline_models\\local\\customer\\14060\\model.pkl",
+        "status": "active",
+        "mse": 157479.51950936994,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14085": {
+        "customer_id": 14085,
+        "model_path": "pipeline_models\\local\\customer\\14085\\model.pkl",
+        "status": "active",
+        "mse": 21915.278709951268,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14092": {
+        "customer_id": 14092,
+        "model_path": "pipeline_models\\local\\customer\\14092\\model.pkl",
+        "status": "active",
+        "mse": 5017.013888673327,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14099": {
+        "customer_id": 14099,
+        "model_path": "pipeline_models\\local\\customer\\14099\\model.pkl",
+        "status": "active",
+        "mse": 18896.217314941197,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14110": {
+        "customer_id": 14110,
+        "model_path": "pipeline_models\\local\\customer\\14110\\model.pkl",
+        "status": "active",
+        "mse": 241549.6859264449,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14156": {
+        "customer_id": 14156,
+        "model_path": "pipeline_models\\local\\customer\\14156\\model.pkl",
+        "status": "active",
+        "mse": 196978590.2657492,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14180": {
+        "customer_id": 14180,
+        "model_path": "pipeline_models\\local\\customer\\14180\\model.pkl",
+        "status": "active",
+        "mse": 13638.071857653264,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14189": {
+        "customer_id": 14189,
+        "model_path": "pipeline_models\\local\\customer\\14189\\model.pkl",
+        "status": "active",
+        "mse": 1071.6458043383352,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14194": {
+        "customer_id": 14194,
+        "model_path": "pipeline_models\\local\\customer\\14194\\model.pkl",
+        "status": "active",
+        "mse": 3861.6024232824575,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14217": {
+        "customer_id": 14217,
+        "model_path": "pipeline_models\\local\\customer\\14217\\model.pkl",
+        "status": "active",
+        "mse": 18854.00964734505,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14243": {
+        "customer_id": 14243,
+        "model_path": "pipeline_models\\local\\customer\\14243\\model.pkl",
+        "status": "active",
+        "mse": 11836.31512675622,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14298": {
+        "customer_id": 14298,
+        "model_path": "pipeline_models\\local\\customer\\14298\\model.pkl",
+        "status": "active",
+        "mse": 6271381.73357898,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14329": {
+        "customer_id": 14329,
+        "model_path": "pipeline_models\\local\\customer\\14329\\model.pkl",
+        "status": "active",
+        "mse": 124475.79576818238,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14415": {
+        "customer_id": 14415,
+        "model_path": "pipeline_models\\local\\customer\\14415\\model.pkl",
+        "status": "active",
+        "mse": 49862.16703152746,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14527": {
+        "customer_id": 14527,
+        "model_path": "pipeline_models\\local\\customer\\14527\\model.pkl",
+        "status": "active",
+        "mse": 25545.86481678005,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14534": {
+        "customer_id": 14534,
+        "model_path": "pipeline_models\\local\\customer\\14534\\model.pkl",
+        "status": "active",
+        "mse": 26143.06959477417,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14543": {
+        "customer_id": 14543,
+        "model_path": "pipeline_models\\local\\customer\\14543\\model.pkl",
+        "status": "active",
+        "mse": 121049.130436345,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14560": {
+        "customer_id": 14560,
+        "model_path": "pipeline_models\\local\\customer\\14560\\model.pkl",
+        "status": "active",
+        "mse": 60801.3026380832,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14606": {
+        "customer_id": 14606,
+        "model_path": "pipeline_models\\local\\customer\\14606\\model.pkl",
+        "status": "active",
+        "mse": 47488.629353982426,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14646": {
+        "customer_id": 14646,
+        "model_path": "pipeline_models\\local\\customer\\14646\\model.pkl",
+        "status": "active",
+        "mse": 274977727.95292133,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14667": {
+        "customer_id": 14667,
+        "model_path": "pipeline_models\\local\\customer\\14667\\model.pkl",
+        "status": "active",
+        "mse": 149124.52206598746,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14680": {
+        "customer_id": 14680,
+        "model_path": "pipeline_models\\local\\customer\\14680\\model.pkl",
+        "status": "active",
+        "mse": 6174308.281768723,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14688": {
+        "customer_id": 14688,
+        "model_path": "pipeline_models\\local\\customer\\14688\\model.pkl",
+        "status": "active",
+        "mse": 52482.75942537401,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14702": {
+        "customer_id": 14702,
+        "model_path": "pipeline_models\\local\\customer\\14702\\model.pkl",
+        "status": "active",
+        "mse": 21122.794052771747,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14735": {
+        "customer_id": 14735,
+        "model_path": "pipeline_models\\local\\customer\\14735\\model.pkl",
+        "status": "active",
+        "mse": 81760.5005017769,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14755": {
+        "customer_id": 14755,
+        "model_path": "pipeline_models\\local\\customer\\14755\\model.pkl",
+        "status": "active",
+        "mse": 21474.857926251345,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14796": {
+        "customer_id": 14796,
+        "model_path": "pipeline_models\\local\\customer\\14796\\model.pkl",
+        "status": "active",
+        "mse": 182401.58085046872,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14825": {
+        "customer_id": 14825,
+        "model_path": "pipeline_models\\local\\customer\\14825\\model.pkl",
+        "status": "active",
+        "mse": 13576.850013432471,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14849": {
+        "customer_id": 14849,
+        "model_path": "pipeline_models\\local\\customer\\14849\\model.pkl",
+        "status": "active",
+        "mse": 64584.89487705837,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14895": {
+        "customer_id": 14895,
+        "model_path": "pipeline_models\\local\\customer\\14895\\model.pkl",
+        "status": "active",
+        "mse": 366804.8233762277,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "14911": {
+        "customer_id": 14911,
+        "model_path": "pipeline_models\\local\\customer\\14911\\model.pkl",
+        "status": "active",
+        "mse": 75731546.07224138,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15005": {
+        "customer_id": 15005,
+        "model_path": "pipeline_models\\local\\customer\\15005\\model.pkl",
+        "status": "active",
+        "mse": 65099.80257364618,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15039": {
+        "customer_id": 15039,
+        "model_path": "pipeline_models\\local\\customer\\15039\\model.pkl",
+        "status": "active",
+        "mse": 848560.1371213483,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15044": {
+        "customer_id": 15044,
+        "model_path": "pipeline_models\\local\\customer\\15044\\model.pkl",
+        "status": "active",
+        "mse": 369459.1866437153,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15061": {
+        "customer_id": 15061,
+        "model_path": "pipeline_models\\local\\customer\\15061\\model.pkl",
+        "status": "active",
+        "mse": 2927026.511293157,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15078": {
+        "customer_id": 15078,
+        "model_path": "pipeline_models\\local\\customer\\15078\\model.pkl",
+        "status": "active",
+        "mse": 416354.9569566608,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15159": {
+        "customer_id": 15159,
+        "model_path": "pipeline_models\\local\\customer\\15159\\model.pkl",
+        "status": "active",
+        "mse": 942254.9847838896,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15189": {
+        "customer_id": 15189,
+        "model_path": "pipeline_models\\local\\customer\\15189\\model.pkl",
+        "status": "active",
+        "mse": 964158.4498347724,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15194": {
+        "customer_id": 15194,
+        "model_path": "pipeline_models\\local\\customer\\15194\\model.pkl",
+        "status": "active",
+        "mse": 53839.0931671813,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15271": {
+        "customer_id": 15271,
+        "model_path": "pipeline_models\\local\\customer\\15271\\model.pkl",
+        "status": "active",
+        "mse": 1752.9777565000336,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15290": {
+        "customer_id": 15290,
+        "model_path": "pipeline_models\\local\\customer\\15290\\model.pkl",
+        "status": "active",
+        "mse": 85979.2184802716,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15311": {
+        "customer_id": 15311,
+        "model_path": "pipeline_models\\local\\customer\\15311\\model.pkl",
+        "status": "active",
+        "mse": 5667896.04149644,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15358": {
+        "customer_id": 15358,
+        "model_path": "pipeline_models\\local\\customer\\15358\\model.pkl",
+        "status": "active",
+        "mse": 149123.0790156816,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15465": {
+        "customer_id": 15465,
+        "model_path": "pipeline_models\\local\\customer\\15465\\model.pkl",
+        "status": "active",
+        "mse": 29897.65346025629,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15498": {
+        "customer_id": 15498,
+        "model_path": "pipeline_models\\local\\customer\\15498\\model.pkl",
+        "status": "active",
+        "mse": 575801.6055595439,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15513": {
+        "customer_id": 15513,
+        "model_path": "pipeline_models\\local\\customer\\15513\\model.pkl",
+        "status": "active",
+        "mse": 802452.9203249672,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15547": {
+        "customer_id": 15547,
+        "model_path": "pipeline_models\\local\\customer\\15547\\model.pkl",
+        "status": "active",
+        "mse": 90208.46603242088,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15601": {
+        "customer_id": 15601,
+        "model_path": "pipeline_models\\local\\customer\\15601\\model.pkl",
+        "status": "active",
+        "mse": 41593.003202124666,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15615": {
+        "customer_id": 15615,
+        "model_path": "pipeline_models\\local\\customer\\15615\\model.pkl",
+        "status": "active",
+        "mse": 673086.1083158132,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15640": {
+        "customer_id": 15640,
+        "model_path": "pipeline_models\\local\\customer\\15640\\model.pkl",
+        "status": "active",
+        "mse": 145485.3567822658,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15694": {
+        "customer_id": 15694,
+        "model_path": "pipeline_models\\local\\customer\\15694\\model.pkl",
+        "status": "active",
+        "mse": 14026.012031441463,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15719": {
+        "customer_id": 15719,
+        "model_path": "pipeline_models\\local\\customer\\15719\\model.pkl",
+        "status": "active",
+        "mse": 3027.254997075003,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15738": {
+        "customer_id": 15738,
+        "model_path": "pipeline_models\\local\\customer\\15738\\model.pkl",
+        "status": "active",
+        "mse": 21587.15280486424,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15769": {
+        "customer_id": 15769,
+        "model_path": "pipeline_models\\local\\customer\\15769\\model.pkl",
+        "status": "active",
+        "mse": 9767302.727249974,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15827": {
+        "customer_id": 15827,
+        "model_path": "pipeline_models\\local\\customer\\15827\\model.pkl",
+        "status": "active",
+        "mse": 4772.304802551228,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15838": {
+        "customer_id": 15838,
+        "model_path": "pipeline_models\\local\\customer\\15838\\model.pkl",
+        "status": "active",
+        "mse": 5394166.0155813545,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15856": {
+        "customer_id": 15856,
+        "model_path": "pipeline_models\\local\\customer\\15856\\model.pkl",
+        "status": "active",
+        "mse": 146311.84809402298,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "15867": {
+        "customer_id": 15867,
+        "model_path": "pipeline_models\\local\\customer\\15867\\model.pkl",
+        "status": "active",
+        "mse": 37848.63643047488,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16011": {
+        "customer_id": 16011,
+        "model_path": "pipeline_models\\local\\customer\\16011\\model.pkl",
+        "status": "active",
+        "mse": 69825.82859216917,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16013": {
+        "customer_id": 16013,
+        "model_path": "pipeline_models\\local\\customer\\16013\\model.pkl",
+        "status": "active",
+        "mse": 1003038.195706778,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16029": {
+        "customer_id": 16029,
+        "model_path": "pipeline_models\\local\\customer\\16029\\model.pkl",
+        "status": "active",
+        "mse": 13097315.31957794,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16033": {
+        "customer_id": 16033,
+        "model_path": "pipeline_models\\local\\customer\\16033\\model.pkl",
+        "status": "active",
+        "mse": 201349.36287200227,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16133": {
+        "customer_id": 16133,
+        "model_path": "pipeline_models\\local\\customer\\16133\\model.pkl",
+        "status": "active",
+        "mse": 2270916.810117184,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16145": {
+        "customer_id": 16145,
+        "model_path": "pipeline_models\\local\\customer\\16145\\model.pkl",
+        "status": "active",
+        "mse": 30554.877657146677,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16161": {
+        "customer_id": 16161,
+        "model_path": "pipeline_models\\local\\customer\\16161\\model.pkl",
+        "status": "active",
+        "mse": 45436.13139987163,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16168": {
+        "customer_id": 16168,
+        "model_path": "pipeline_models\\local\\customer\\16168\\model.pkl",
+        "status": "active",
+        "mse": 41360.77942504917,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16241": {
+        "customer_id": 16241,
+        "model_path": "pipeline_models\\local\\customer\\16241\\model.pkl",
+        "status": "active",
+        "mse": 10571.8337719212,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16353": {
+        "customer_id": 16353,
+        "model_path": "pipeline_models\\local\\customer\\16353\\model.pkl",
+        "status": "active",
+        "mse": 124863.03013577111,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16393": {
+        "customer_id": 16393,
+        "model_path": "pipeline_models\\local\\customer\\16393\\model.pkl",
+        "status": "active",
+        "mse": 61355.17078632134,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16401": {
+        "customer_id": 16401,
+        "model_path": "pipeline_models\\local\\customer\\16401\\model.pkl",
+        "status": "active",
+        "mse": 46761.698396561645,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16422": {
+        "customer_id": 16422,
+        "model_path": "pipeline_models\\local\\customer\\16422\\model.pkl",
+        "status": "active",
+        "mse": 1593262.4993307544,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16458": {
+        "customer_id": 16458,
+        "model_path": "pipeline_models\\local\\customer\\16458\\model.pkl",
+        "status": "active",
+        "mse": 3497.5470234133186,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16523": {
+        "customer_id": 16523,
+        "model_path": "pipeline_models\\local\\customer\\16523\\model.pkl",
+        "status": "active",
+        "mse": 698443.0202354927,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16525": {
+        "customer_id": 16525,
+        "model_path": "pipeline_models\\local\\customer\\16525\\model.pkl",
+        "status": "active",
+        "mse": 814802.262179104,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16558": {
+        "customer_id": 16558,
+        "model_path": "pipeline_models\\local\\customer\\16558\\model.pkl",
+        "status": "active",
+        "mse": 145960.8686609004,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16570": {
+        "customer_id": 16570,
+        "model_path": "pipeline_models\\local\\customer\\16570\\model.pkl",
+        "status": "active",
+        "mse": 212769.9044292624,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16607": {
+        "customer_id": 16607,
+        "model_path": "pipeline_models\\local\\customer\\16607\\model.pkl",
+        "status": "active",
+        "mse": 14340.307610530068,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16656": {
+        "customer_id": 16656,
+        "model_path": "pipeline_models\\local\\customer\\16656\\model.pkl",
+        "status": "active",
+        "mse": 525570.7533450157,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16684": {
+        "customer_id": 16684,
+        "model_path": "pipeline_models\\local\\customer\\16684\\model.pkl",
+        "status": "active",
+        "mse": 25474698.95225563,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16700": {
+        "customer_id": 16700,
+        "model_path": "pipeline_models\\local\\customer\\16700\\model.pkl",
+        "status": "active",
+        "mse": 4127.800034042501,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16701": {
+        "customer_id": 16701,
+        "model_path": "pipeline_models\\local\\customer\\16701\\model.pkl",
+        "status": "active",
+        "mse": 212472.39309703445,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16705": {
+        "customer_id": 16705,
+        "model_path": "pipeline_models\\local\\customer\\16705\\model.pkl",
+        "status": "active",
+        "mse": 43782.99715994003,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16713": {
+        "customer_id": 16713,
+        "model_path": "pipeline_models\\local\\customer\\16713\\model.pkl",
+        "status": "active",
+        "mse": 119759.93281728611,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16722": {
+        "customer_id": 16722,
+        "model_path": "pipeline_models\\local\\customer\\16722\\model.pkl",
+        "status": "active",
+        "mse": 27423.228857411297,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16746": {
+        "customer_id": 16746,
+        "model_path": "pipeline_models\\local\\customer\\16746\\model.pkl",
+        "status": "active",
+        "mse": 45364.01293612673,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16775": {
+        "customer_id": 16775,
+        "model_path": "pipeline_models\\local\\customer\\16775\\model.pkl",
+        "status": "active",
+        "mse": 1763.3841133112617,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16779": {
+        "customer_id": 16779,
+        "model_path": "pipeline_models\\local\\customer\\16779\\model.pkl",
+        "status": "active",
+        "mse": 629973.5939251035,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16814": {
+        "customer_id": 16814,
+        "model_path": "pipeline_models\\local\\customer\\16814\\model.pkl",
+        "status": "active",
+        "mse": 21223.269442169272,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16839": {
+        "customer_id": 16839,
+        "model_path": "pipeline_models\\local\\customer\\16839\\model.pkl",
+        "status": "active",
+        "mse": 750828.2654471636,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16904": {
+        "customer_id": 16904,
+        "model_path": "pipeline_models\\local\\customer\\16904\\model.pkl",
+        "status": "active",
+        "mse": 107525.99601273167,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16923": {
+        "customer_id": 16923,
+        "model_path": "pipeline_models\\local\\customer\\16923\\model.pkl",
+        "status": "active",
+        "mse": 87673.95259612626,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16931": {
+        "customer_id": 16931,
+        "model_path": "pipeline_models\\local\\customer\\16931\\model.pkl",
+        "status": "active",
+        "mse": 52005.37504270411,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "16945": {
+        "customer_id": 16945,
+        "model_path": "pipeline_models\\local\\customer\\16945\\model.pkl",
+        "status": "active",
+        "mse": 65836.48721658676,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17001": {
+        "customer_id": 17001,
+        "model_path": "pipeline_models\\local\\customer\\17001\\model.pkl",
+        "status": "active",
+        "mse": 7281.351381841706,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17017": {
+        "customer_id": 17017,
+        "model_path": "pipeline_models\\local\\customer\\17017\\model.pkl",
+        "status": "active",
+        "mse": 218209.664283342,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17068": {
+        "customer_id": 17068,
+        "model_path": "pipeline_models\\local\\customer\\17068\\model.pkl",
+        "status": "active",
+        "mse": 20902.548664024227,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17238": {
+        "customer_id": 17238,
+        "model_path": "pipeline_models\\local\\customer\\17238\\model.pkl",
+        "status": "active",
+        "mse": 6103.760676304936,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17243": {
+        "customer_id": 17243,
+        "model_path": "pipeline_models\\local\\customer\\17243\\model.pkl",
+        "status": "active",
+        "mse": 409478.1311586068,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17306": {
+        "customer_id": 17306,
+        "model_path": "pipeline_models\\local\\customer\\17306\\model.pkl",
+        "status": "active",
+        "mse": 125735.36789846251,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17315": {
+        "customer_id": 17315,
+        "model_path": "pipeline_models\\local\\customer\\17315\\model.pkl",
+        "status": "active",
+        "mse": 84663.35800895514,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17381": {
+        "customer_id": 17381,
+        "model_path": "pipeline_models\\local\\customer\\17381\\model.pkl",
+        "status": "active",
+        "mse": 171457.621704474,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17389": {
+        "customer_id": 17389,
+        "model_path": "pipeline_models\\local\\customer\\17389\\model.pkl",
+        "status": "active",
+        "mse": 514347.6139148309,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17404": {
+        "customer_id": 17404,
+        "model_path": "pipeline_models\\local\\customer\\17404\\model.pkl",
+        "status": "active",
+        "mse": 5513145.354788399,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17428": {
+        "customer_id": 17428,
+        "model_path": "pipeline_models\\local\\customer\\17428\\model.pkl",
+        "status": "active",
+        "mse": 3132861.1084312093,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17450": {
+        "customer_id": 17450,
+        "model_path": "pipeline_models\\local\\customer\\17450\\model.pkl",
+        "status": "active",
+        "mse": 1456453474.2272513,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17511": {
+        "customer_id": 17511,
+        "model_path": "pipeline_models\\local\\customer\\17511\\model.pkl",
+        "status": "active",
+        "mse": 2539649.706839376,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17576": {
+        "customer_id": 17576,
+        "model_path": "pipeline_models\\local\\customer\\17576\\model.pkl",
+        "status": "active",
+        "mse": 32894.486963206604,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17581": {
+        "customer_id": 17581,
+        "model_path": "pipeline_models\\local\\customer\\17581\\model.pkl",
+        "status": "active",
+        "mse": 391284.1587293149,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17611": {
+        "customer_id": 17611,
+        "model_path": "pipeline_models\\local\\customer\\17611\\model.pkl",
+        "status": "active",
+        "mse": 4298.4166132466735,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17644": {
+        "customer_id": 17644,
+        "model_path": "pipeline_models\\local\\customer\\17644\\model.pkl",
+        "status": "active",
+        "mse": 62681.33724498751,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17675": {
+        "customer_id": 17675,
+        "model_path": "pipeline_models\\local\\customer\\17675\\model.pkl",
+        "status": "active",
+        "mse": 800385.7177090064,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17677": {
+        "customer_id": 17677,
+        "model_path": "pipeline_models\\local\\customer\\17677\\model.pkl",
+        "status": "active",
+        "mse": 999448.5887592674,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17730": {
+        "customer_id": 17730,
+        "model_path": "pipeline_models\\local\\customer\\17730\\model.pkl",
+        "status": "active",
+        "mse": 11007.714708162512,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17735": {
+        "customer_id": 17735,
+        "model_path": "pipeline_models\\local\\customer\\17735\\model.pkl",
+        "status": "active",
+        "mse": 578993.9085211885,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17757": {
+        "customer_id": 17757,
+        "model_path": "pipeline_models\\local\\customer\\17757\\model.pkl",
+        "status": "active",
+        "mse": 78495.86193776537,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17811": {
+        "customer_id": 17811,
+        "model_path": "pipeline_models\\local\\customer\\17811\\model.pkl",
+        "status": "active",
+        "mse": 180972.6991501439,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17841": {
+        "customer_id": 17841,
+        "model_path": "pipeline_models\\local\\customer\\17841\\model.pkl",
+        "status": "active",
+        "mse": 1950540.4423657053,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17857": {
+        "customer_id": 17857,
+        "model_path": "pipeline_models\\local\\customer\\17857\\model.pkl",
+        "status": "active",
+        "mse": 5258675.141680171,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17865": {
+        "customer_id": 17865,
+        "model_path": "pipeline_models\\local\\customer\\17865\\model.pkl",
+        "status": "active",
+        "mse": 832475.5357709136,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17920": {
+        "customer_id": 17920,
+        "model_path": "pipeline_models\\local\\customer\\17920\\model.pkl",
+        "status": "active",
+        "mse": 148851.7304160222,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17949": {
+        "customer_id": 17949,
+        "model_path": "pipeline_models\\local\\customer\\17949\\model.pkl",
+        "status": "active",
+        "mse": 38665329.09693934,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17961": {
+        "customer_id": 17961,
+        "model_path": "pipeline_models\\local\\customer\\17961\\model.pkl",
+        "status": "active",
+        "mse": 4598.653307671661,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "17975": {
+        "customer_id": 17975,
+        "model_path": "pipeline_models\\local\\customer\\17975\\model.pkl",
+        "status": "active",
+        "mse": 46573.39038828104,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "18041": {
+        "customer_id": 18041,
+        "model_path": "pipeline_models\\local\\customer\\18041\\model.pkl",
+        "status": "active",
+        "mse": 26273.2503076982,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "18061": {
+        "customer_id": 18061,
+        "model_path": "pipeline_models\\local\\customer\\18061\\model.pkl",
+        "status": "active",
+        "mse": 5937.064071264969,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "18075": {
+        "customer_id": 18075,
+        "model_path": "pipeline_models\\local\\customer\\18075\\model.pkl",
+        "status": "active",
+        "mse": 42815.66370946259,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "18102": {
+        "customer_id": 18102,
+        "model_path": "pipeline_models\\local\\customer\\18102\\model.pkl",
+        "status": "active",
+        "mse": 500665340.2494087,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "18109": {
+        "customer_id": 18109,
+        "model_path": "pipeline_models\\local\\customer\\18109\\model.pkl",
+        "status": "active",
+        "mse": 14400.627443304184,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "18118": {
+        "customer_id": 18118,
+        "model_path": "pipeline_models\\local\\customer\\18118\\model.pkl",
+        "status": "active",
+        "mse": 101007.15081787053,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "18144": {
+        "customer_id": 18144,
+        "model_path": "pipeline_models\\local\\customer\\18144\\model.pkl",
+        "status": "active",
+        "mse": 4767.871758406226,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "18172": {
+        "customer_id": 18172,
+        "model_path": "pipeline_models\\local\\customer\\18172\\model.pkl",
+        "status": "active",
+        "mse": 678164.4435802628,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "18198": {
+        "customer_id": 18198,
+        "model_path": "pipeline_models\\local\\customer\\18198\\model.pkl",
+        "status": "active",
+        "mse": 108784.20751093097,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "18223": {
+        "customer_id": 18223,
+        "model_path": "pipeline_models\\local\\customer\\18223\\model.pkl",
+        "status": "active",
+        "mse": 116609.96699345826,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "18225": {
+        "customer_id": 18225,
+        "model_path": "pipeline_models\\local\\customer\\18225\\model.pkl",
+        "status": "active",
+        "mse": 216015.4878151172,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "18226": {
+        "customer_id": 18226,
+        "model_path": "pipeline_models\\local\\customer\\18226\\model.pkl",
+        "status": "active",
+        "mse": 34481.02893230492,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "18229": {
+        "customer_id": 18229,
+        "model_path": "pipeline_models\\local\\customer\\18229\\model.pkl",
+        "status": "active",
+        "mse": 52034.37798350008,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    },
+    "18283": {
+        "customer_id": 18283,
+        "model_path": "pipeline_models\\local\\customer\\18283\\model.pkl",
+        "status": "active",
+        "mse": 2658.927081205039,
+        "features_used": [
+            "day_of_week",
+            "week_of_year",
+            "month",
+            "avg_target",
+            "max_target",
+            "min_target",
+            "count_records",
+            "lag_1",
+            "rolling_3_mean"
+        ],
+        "training_status": "trained"
+    }
+}
