@@ -1,0 +1,17 @@
+{
+    "customer_id": 16558,
+    "model_path": "pipeline_models\\local\\customer\\16558\\model.pkl",
+    "status": "trained",
+    "mse": 145960.8686609004,
+    "features_used": [
+        "day_of_week",
+        "week_of_year",
+        "month",
+        "avg_target",
+        "max_target",
+        "min_target",
+        "count_records",
+        "lag_1",
+        "rolling_3_mean"
+    ]
+}
