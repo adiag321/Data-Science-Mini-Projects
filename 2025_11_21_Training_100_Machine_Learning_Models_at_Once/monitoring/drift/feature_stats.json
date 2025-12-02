@@ -1,0 +1,13 @@
+{
+    "customer_id": 11218.0,
+    "prediction": 525.1550881484134,
+    "feat_day_of_week": 3.5,
+    "feat_week_of_year": 45.0,
+    "feat_month": 11.0,
+    "feat_avg_target": 270.0,
+    "feat_max_target": 465.0,
+    "feat_min_target": 55.0,
+    "feat_count_records": 132.5,
+    "feat_lag_1": 259.0,
+    "feat_rolling_3_mean": 250.0
+}
