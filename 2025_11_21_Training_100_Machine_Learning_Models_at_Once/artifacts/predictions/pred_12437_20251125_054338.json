@@ -1,0 +1,17 @@
+{
+    "timestamp": "2025-11-25T05:43:38.737271",
+    "customer_id": 12437,
+    "features": {
+        "day_of_week": 2,
+        "week_of_year": 45,
+        "month": 11,
+        "avg_target": 410,
+        "max_target": 700,
+        "min_target": 100,
+        "count_records": 240,
+        "lag_1": 400,
+        "rolling_3_mean": 390
+    },
+    "prediction": 913.9276499999995,
+    "model_used": "customer_12437_model"
+}
