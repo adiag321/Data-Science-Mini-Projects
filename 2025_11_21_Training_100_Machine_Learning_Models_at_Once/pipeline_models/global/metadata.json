@@ -1,0 +1,18 @@
+{
+    "model_path": "pipeline_models\\global\\global_model.pkl",
+    "type": "global_model",
+    "metric": {
+        "mse": 1343057.9123544022
+    },
+    "features_used": [
+        "day_of_week",
+        "week_of_year",
+        "month",
+        "avg_target",
+        "max_target",
+        "min_target",
+        "count_records",
+        "lag_1",
+        "rolling_3_mean"
+    ]
+}
