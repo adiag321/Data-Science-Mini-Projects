@@ -1,0 +1,3 @@
+customer_id,model_type,mean_prediction,std_prediction,min_prediction,max_prediction,num_samples
+9999,global_model,136.3825262968273,,136.3825262968273,136.3825262968273,1
+12437,customer_12437_model,913.9276499999995,,913.9276499999995,913.9276499999995,1
