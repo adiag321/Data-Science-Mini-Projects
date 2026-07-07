@@ -185,3 +185,4 @@ cython_debug/
 /.vscode/*.code-workspace
 2025_10_09_Monthly_Expenses_Analysis/data/Expenses_2025_analysis_data.xlsx
 .DS_Store
+2025_10_09_Monthly_Expenses_Analysis/data/Expenses_Analysis_All_Years.xlsx
